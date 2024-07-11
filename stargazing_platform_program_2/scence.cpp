@@ -1,6 +1,8 @@
 #include "scence.hpp"
 using namespace std;
 
+#define key key=c7f086cf2b926afdaf99dd0141b93a80&extensions  //key值可以在高德开发平台上申请
+
 
 Scence::Scence()
 {
@@ -18,8 +20,8 @@ Scence::Scence()
     // 判断是否连接成功
     if (httpsock->is_connected())
     {
-        // 发送请求，获取服务器天气信息
-        httpsock->get("/v3/weather/weatherInfo?city=440100&key=c7f086cf2b926afdaf99dd0141b93a80&extensions=all");
+        // 发送请求，获取服务器天气信息,key值可以在高德开发平台上申请
+        httpsock->get("/v3/weather/weatherInfo?city=440100&key&extensions=all");
 
         // 将来自服务器的天气信息存储到文件中
         httpsock->WeatherFile();
