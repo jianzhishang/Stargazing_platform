@@ -1,0 +1,2 @@
+/usr/bin/ar qc libphoto.a  CMakeFiles/photo.dir/photo.cpp.o
+/usr/bin/ranlib libphoto.a

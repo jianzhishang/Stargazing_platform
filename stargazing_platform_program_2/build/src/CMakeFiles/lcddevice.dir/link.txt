@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblcddevice.a  CMakeFiles/lcddevice.dir/lcddevice.cpp.o
+/usr/bin/ranlib liblcddevice.a

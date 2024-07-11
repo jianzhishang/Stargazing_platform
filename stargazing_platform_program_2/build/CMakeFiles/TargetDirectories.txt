@@ -1,0 +1,11 @@
+/mnt/hgfs/gongxiang/code/myproject/Stargazing_platform/stargazing_platform_program/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/gongxiang/code/myproject/Stargazing_platform/stargazing_platform_program/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/gongxiang/code/myproject/Stargazing_platform/stargazing_platform_program/build/CMakeFiles/Stargazing_platform.dir
+/mnt/hgfs/gongxiang/code/myproject/Stargazing_platform/stargazing_platform_program/build/src/CMakeFiles/lcddevice.dir
+/mnt/hgfs/gongxiang/code/myproject/Stargazing_platform/stargazing_platform_program/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/gongxiang/code/myproject/Stargazing_platform/stargazing_platform_program/build/src/CMakeFiles/photo.dir
+/mnt/hgfs/gongxiang/code/myproject/Stargazing_platform/stargazing_platform_program/build/src/CMakeFiles/http.dir
+/mnt/hgfs/gongxiang/code/myproject/Stargazing_platform/stargazing_platform_program/build/src/CMakeFiles/button.dir
+/mnt/hgfs/gongxiang/code/myproject/Stargazing_platform/stargazing_platform_program/build/src/CMakeFiles/edit_cache.dir
+/mnt/hgfs/gongxiang/code/myproject/Stargazing_platform/stargazing_platform_program/build/src/CMakeFiles/location.dir
+/mnt/hgfs/gongxiang/code/myproject/Stargazing_platform/stargazing_platform_program/build/src/CMakeFiles/font.dir

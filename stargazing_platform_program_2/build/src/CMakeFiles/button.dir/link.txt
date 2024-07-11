@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbutton.a  CMakeFiles/button.dir/button.cpp.o
+/usr/bin/ranlib libbutton.a

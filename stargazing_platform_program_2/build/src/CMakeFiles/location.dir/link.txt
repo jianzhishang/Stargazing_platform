@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblocation.a  CMakeFiles/location.dir/location.cpp.o
+/usr/bin/ranlib liblocation.a
